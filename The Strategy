@@ -1,0 +1,15 @@
+# The principle:- Dual moving average crossover
+
+#The Basis
+
+#the long term moving average (LTMA) will have a lower variance and will move in the same direction as the short term moving average but at a different rate.
+
+#The different rates of direction, induces points where the values of the two moving averages may equal and or cross one another(crossover points).
+
+#Under this stratergy The Technical Approach suggests that when the Short Term Moving Average (STMA) moves above the LTMA, that represents a Buy (or Long) signal.
+
+#Conversely, when the STMA moves below the LTMA, the Technical Approach indicates a Sell (or Short) signal. The intuition behind this strategy can be explained in terms of momentum.
+
+#Basically, the principle of momentum states that a price that is moving up (or down) during period t is likely to continue to move up (or down) in period t+1 unless evidence exists to the contrary.
+
+#When the STMA moves above the LTMA, this provides a lagged indicator that the price is moving upward relative to the historical price.  Buy high, sell higher.
